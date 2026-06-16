@@ -2,7 +2,7 @@
 
 ## Reproducible BERT–IDF Rare-Aware Adaptive Fusion Benchmark for CV Classification
 
-This repository provides a reproducible implementation and benchmark of **BERTidRAAF**, a BERT–IDF rare-aware adaptive fusion model for CV classification in AI-driven recruitment.
+This repository provides a reproducible implementation and benchmark of **BERTidRAAF**, a BERT–IDF rare-aware adaptive fusion model for CV classification in AI-driven recruitment. The associated article is available at: https://doi.org/10.1016/j.asoc.2026.115742
 
 BERTidRAAF combines BERT-based contextual representations with IDF-weighted lexical evidence to improve recruitment-oriented text classification. The benchmark evaluates the proposed model against lexical, neural, transformer, and BERT–IDF hybrid baselines on the Resume and FairCVdb datasets.
 
